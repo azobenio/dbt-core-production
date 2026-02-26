@@ -1,0 +1,14 @@
+# dbt artifacts
+dbt_project/target/
+dbt_project/dbt_packages/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
