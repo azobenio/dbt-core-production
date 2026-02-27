@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y \
   && rm -rf /var/lib/apt/lists/*
 
 RUN pip install --no-cache-dir \
-  dbt-core==1.9.4 \
-  dbt-postgres==1.9.4
+  dbt-core==1.9.1 \
+  dbt-postgres==1.9.1
 
 ENTRYPOINT ["dbt"]

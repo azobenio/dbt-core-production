@@ -5,6 +5,7 @@ config-version: 2
 profile: 'dbt_production_profile'
 
 model-paths: ["models"]
+analysis-paths: ["analyses"]
 seed-paths: ["seeds"]
 snapshot-paths: ["snapshots"]
 macro-paths: ["macros"]
