@@ -1,0 +1,1 @@
+{"_invocation_id": "0542b966-b0e6-41d3-aecf-924b5ee0058f", "linked": {"0": {"name": "model.dbt_project.test_connection", "type": "model"}, "1": {"name": "model.dbt_project.test_model", "type": "model"}, "2": {"name": "seed.dbt_project.countries", "type": "seed"}}}
